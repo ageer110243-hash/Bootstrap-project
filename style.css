@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+}
+
+.navbar{
+    background-color: #ec0e0e !important;
+    padding: 20PX;
+     
+}
+.navbar a{
+   color: white !important;
+   font-weight: 600;
+}
+
+#banner{
+    background-image: linear-gradient(to right , #a517ba, #5f1782);
+    color: white;
+    padding: 50px;
+}
