@@ -91,3 +91,36 @@ body{
     font-weight: 600;
     margin-top: 8%;
 }
+ #about-us ul li{
+   margin: 10px 0;
+ }
+  #about-us ul {
+    margin-left: 20px;
+  }
+
+  #testimonials{
+    margin: 100px 0;
+  }
+
+  .testimonials{
+    border-left: 4px solid #7b1798;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .user-detail{
+    display: inline-block;
+    font-size: 12px;
+  }
+
+  #social-media{
+    background-color: #f8f9fa;
+    padding: 50PX 0;
+  }
+
+   #social-media p{
+     
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+     
+   }
